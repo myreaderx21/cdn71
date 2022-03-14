@@ -1,0 +1,662 @@
+<!doctype html>
+<html lang="en" class="no-js"><head>
+	   	<meta charset="utf-8">
+        <title>Logo ideas and inspiration for logo designers | LogoLounge</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+		<meta name="apple-mobile-web-app-title" content="LogoLounge">
+        <meta name="google-site-verification" content="WISNHt9IAWtFyABANOW2_2a7EgCwuCfeO9ZRQ1IVTCg" />
+		<meta name="p:domain_verify" content="d54a36d22bf0126044e1f4d35b229742" />
+																			   
+	     <meta property="og:title" content="Logo ideas and inspiration for logo designers | LogoLounge Logo Design Inspiration and Logo Design Competition" />
+		 <meta property="og:description" content="LogoLounge makes logo research simple by making it searchable. LogoLounge is the best logo design research tool, network, competition and news source." />
+		
+		<link rel="apple-touch-icon" sizes="57x57" href="/assets/favicons/apple-touch-icon-57x57.png">
+		<link rel="apple-touch-icon" sizes="60x60" href="/assets/favicons/apple-touch-icon-60x60.png">
+		<link rel="apple-touch-icon" sizes="72x72" href="/assets/favicons/apple-touch-icon-72x72.png">
+		<link rel="apple-touch-icon" sizes="76x76" href="/assets/favicons/apple-touch-icon-76x76.png">
+		<link rel="apple-touch-icon" sizes="114x114" href="/assets/favicons/apple-touch-icon-114x114.png">
+		<link rel="apple-touch-icon" sizes="120x120" href="/assets/favicons/apple-touch-icon-120x120.png">
+		<link rel="apple-touch-icon" sizes="144x144" href="/assets/favicons/apple-touch-icon-144x144.png">
+		<link rel="apple-touch-icon" sizes="152x152" href="/assets/favicons/apple-touch-icon-152x152.png">
+		<link rel="apple-touch-icon" sizes="180x180" href="/assets/favicons/apple-touch-icon-180x180.png">
+		<link rel="icon" type="image/png" href="/assets/favicons/favicon-32x32.png" sizes="32x32">
+		<link rel="icon" type="image/png" href="/assets/favicons/favicon-194x194.png" sizes="194x194">
+		<link rel="icon" type="image/png" href="/assets/favicons/favicon-96x96.png" sizes="96x96">
+		<link rel="icon" type="image/png" href="/assets/favicons/android-chrome-192x192.png" sizes="192x192">
+		<link rel="icon" type="image/png" href="/assets/favicons/favicon-16x16.png" sizes="16x16">
+		<link rel="manifest" href="/assets/favicons/manifest.json">
+		<link rel="mask-icon" href="/assets/favicons/safari-pinned-tab.svg" color="#cb6639">
+		<link rel="shortcut icon" href="/assets/favicons/favicon.ico">
+		<meta name="msapplication-TileColor" content="#da532c">
+		<meta name="msapplication-TileImage" content="/assets/favicons/mstile-144x144.png">
+		<meta name="msapplication-config" content="/assets/favicons/browserconfig.xml">
+		<meta name="theme-color" content="#ffffff">
+		<meta name="description" content="LogoLounge makes logo research simple by making it searchable. LogoLounge is the best logo design research tool, network, competition and news source.">
+		
+		<script>document.getElementsByTagName( 'html' )[0].className = document.getElementsByTagName( 'html' )[0].className.replace( /no-js/, 'js' );</script>
+		
+		<link rel="stylesheet" href="/assets/css/main.min.css?v=1.13">
+			<style>
+				.frontpage-header {
+					padding-top: 0;
+				}
+				.frontpage-header-inner {
+					padding: 0;
+				}
+				.frontpage-header-new {
+					margin-top: 0;
+				}
+				.frontpage-banner {
+					position: relative;
+					background: url('/images/frontpage/banner_bg_2.png') no-repeat 50% 50%/cover;
+				}
+				@media ( max-width: 750px ) {
+					.frontpage-banner {
+						background-size: auto 100%;
+						background-position: 0%;
+					}
+				}
+				.frontpage-banner-inner {
+					margin: 0 auto;
+				    max-width: 70em;
+					padding: 0 1.5em;
+				}
+				@media ( max-width: 1200px ) {
+					.frontpage-banner-inner {
+					    max-width: 46em;
+				   }
+				}
+				@media ( max-width: 600px ) {
+					.frontpage-banner-inner {
+						padding-top: 4em;
+						padding-bottom: 4em;
+					}
+				}
+				.frontpage-banner .image {
+					display: inline-block;
+					vertical-align: middle;
+					width: 25%;
+					margin: 2em 0;
+					background: #fff;
+				}
+				@media ( max-width: 600px ) {
+					.frontpage-banner .image {
+						display: block;
+						width: 140px;
+						margin-top: 0;
+						margin-left: auto;
+						margin-right: auto;
+					}
+				}
+				.frontpage-banner .image img {
+					width: 100%;
+					height: auto;
+				}
+				.frontpage-banner .text {
+					display: inline-block;
+					vertical-align: middle;
+					width: 75%;
+					color: #fff;
+					padding-left: 5%;
+					margin: 4em 0;
+					box-sizing: border-box;
+				}
+				@media ( max-width: 1200px ) {
+					.frontpage-banner .text {
+						padding-left: 7.5%;
+					}
+				}
+				@media ( max-width: 600px ) {
+					.frontpage-banner .text {
+						display: block;
+						width: auto;
+						margin: 0;
+						padding-left: 0;
+						text-align: center;
+					}
+				}
+				@media ( min-width: 601px ) {
+					.frontpage-banner .text p span {
+						display: inline-block;
+					}
+				}
+				.frontpage-banner h1 {
+					margin: 0;
+					line-height: 1.2;
+				}
+				.frontpage-banner .button,
+				.footer-ribbon .button {
+					display: inline-block;
+					color: #fff;
+					line-height: 20px;
+					font-weight: bold;
+					padding: 9px 25px 7px 25px;
+					margin-top: 0.75em;
+					border-radius: 12px 0;
+					background: #ca663a; /* #e73e18 */
+					transition: background 0.3s, color 0.3s;
+				}
+				.frontpage-banner .button:hover {
+					background: #653818;
+				}
+				.footer-ribbon {
+					color: #fff;
+					text-align: center;
+					background: url('/images/frontpage/banner_bg_2.png') no-repeat 50% 50%/cover;
+					margin-top: 4em;
+					margin-bottom: -4em;
+					padding: 30px 15px;
+				}
+				.footer-ribbon p {
+					display: inline-block;
+					vertical-align: middle;
+					font-size: 24px;
+					line-height: 1.2;
+					margin: 10px 15px;
+				}
+				.footer-ribbon p span {
+					display: inline-block;
+				}
+				.footer-ribbon .button {
+					vertical-align: middle;
+					color: #4b4b4d;
+					background: #fff;
+					margin: 10px 15px;
+				}
+				.footer-ribbon .button:hover {
+					color: #fff;
+					background: #ca663a;
+				}
+				input[type="text"], input[type="email"], input[type="number"], input[type="tel"], input[type="password"], select, select.form-control, textarea {
+					color: #4b4b4d;
+					background: #fff;
+					border: solid 1px #e5e5e5;
+				}
+				input[type="text"]:focus, input[type="email"]:focus, input[type="number"]:focus, input[type="tel"]:focus, input[type="password"]:focus, select:focus, textarea:focus {
+					background: #fff;
+					border-color: #ca663a;
+					box-shadow: 0 0 0 1px #ca663a;
+				}
+				button:focus, .btn:focus {
+					box-shadow: 0 0 0 2px #ca663a;
+				}
+					
+			</style>		
+    </head>
+    <body  class=" home is-guest" >
+		
+		<div class="site-container">
+    	
+	    	<!-- BEGIN site-header -->
+	    	<header class="site-header">
+		    	<div class="site-header-inner">
+					<div class="site-title"><a href="/" title="Home">LogoLounge</a></div>
+					
+					<input id="menu-toggle-checkbox" class="menu-toggle-checkbox hidden-input" type="checkbox">
+					<label class="menu-toggle" for="menu-toggle-checkbox">Menu</label>
+					
+					<div class="site-header-navigation">
+						
+												
+						
+						<nav class="site-navigation" role="navigation">
+							<ul>
+								<li>
+									<a href="/logos" title="">Logos</a>
+									<input id="header-logo-dropdown" class="hidden-input" type="checkbox">
+									<label for="header-logo-dropdown" class="dropdown-label"><i class="icon icon-dropdown"></i></label>
+									<ul class="submenu">
+										<li><a href="/logos">Fresh</a></li>
+																													</ul>
+								</li>
+																<li><a href="/news" title="">News</a></li>
+								<li><a href="/trend-reports" title="">Trends</a></li>
+								<li>
+									<a href="/books" title="Books">Books</a>
+								</li>
+								<li>
+									<a class="highlight" href="/leap" title="LogoLounge Leap for Educators and Students">Leap</a>
+								</li>
+							</ul>
+						</nav>
+								
+						
+						<nav class="user-navigation" role="navigation">
+														
+								<ul>
+									<li>
+										<a class="btn btn-inverse" href="/login" title="" data-action="toggle-submenu">Login</a>
+										<div class="submenu submenu-login">
+											<form action="/login" method="post">
+												<input type="hidden" name="continue" value="https://www.logolounge.com/">
+												<div class="form-group form-group--required">
+										    		<label class="control-label">
+										    			Username
+										    		</label>
+										    		<input class="form-control" type="text" name="username" autocapitalize="none" autocorrect="off" spellcheck="false" tabindex="1" autocomplete="username">
+												</div>
+												<div class="form-group form-group--required">
+										    		<label class="control-label">
+										    			Password
+														<a class="control-label-help" href="/password-reset" title="Request your password">Forgot?</a>
+										    		</label>
+										    		<input class="form-control" type="password" name="password" autocapitalize="none" autocorrect="off" spellcheck="false" tabindex="2" autocomplete="current-password">
+												</div>
+												
+												<button class="btn btn-primary" tabindex="5">Log in</button>
+											</form>
+										</div>
+									</li>
+									<li><a class="btn" href="/join" title="Join LogoLounge">Join</a></li>
+								</ul>
+							
+															
+						</nav>
+					</div>
+						
+		    	</div>
+			</header><!-- END site-header -->
+			
+			<div class="site-inner-wrapper">
+				
+<div class="frontpage-banner">
+	<div class="frontpage-banner-inner">
+		<!--a href="/articles/2020-logo-trend-report"><img src="https://www.logolounge.com/images/logo_trends_report_2020.jpg" class="header-banner" /></a>
+		<!--a href="/book12winners"><img src="https://www.logolounge.com/images/ll-book12-winners-header.jpg" class="header-banner" /></a>
+		<a href="/join"><img src="https://www.logolounge.com/images/logolounge_join_the_family_sm.png" class="header-banner" /></a>
+		<a href="https://store.bookbaby.com/book/Logolounge-12" target="_blank"><img src="https://www.logolounge.com/images/logolounge_book12.png" class="header-banner" /></a-->
+		<!--a href="https://www.logolounge.com/compete" target="_blank"><img src="https://www.logolounge.com/images/logolounge-book-13-call-for-entries-2.jpg" class="header-banner" /></a-->
+		<!--a href="https://www.logolounge.com/articles/2021-logo-trend-report" target="_blank"><img src="https://www.logolounge.com/images/logolounge-trends-2021.jpg" class="header-banner" /></a-->
+		
+		
+		<img src="https://www.logolounge.com/images/logolounge-book-13-cfe-closed.jpg" class="header-banner" />
+		
+		
+		
+		<aside class="recent-logo-container with-banner">
+			<div class="recent-logo-container-content">
+				<h3>Just Added</h3>
+									<article class="logo-item" tabindex="" data-type="logo" data-id="418844" logo-design="Relevant_logo_logo_lounge" logo-designer="Neon+Pig+Creative">
+	
+	<figure class="logo-item-figure">
+		<a class="logo-item-figure-content" href="/logos/418844">
+							<img src="https://www.logolounge.com/wd/uploads/22044_418844.jpg" data-action="quicklook" data-action-value="418844" alt="Relevant_logo_logo_lounge logo design by logo designer Neon Pig Creative for your inspiration and for the worlds largest logo competition">
+					</a>
+			</figure>
+			
+		
+		</article>								</div>
+		</aside>
+		
+	</div>
+</div>
+
+<main class="site-content">
+
+	<section class="frontpage-header">
+		<div class="frontpage-header-inner">
+			<p class="frontpage-header-new">New to LogoLounge? <a href="/join" title="Learn more about LogoLounge.com">Learn More</a></p>
+		</div>
+	</section>
+	
+	<section class="frontpage-logos">
+	   
+	    <form class="frontpage-search" method="get" action="/search">
+	        <div class="search-input-wrapper">
+	            <input class="search-input placholder-hide" type="text" name="keywords" placeholder="Find your inspiration!" autofocus>
+	            <button class="search-button" type="submit"><i class="icon icon-search">Search</i></button>
+	        </div>
+	    </form>
+		
+		<!--h2 class="section-title">Featured in Book 10</h2-->
+		<h2 class="section-title">Latest Inspirations</h2>
+		
+		<span class="label">381,452 Logos</span>
+		
+		<div class="logo-container">
+							<article class="logo-item" tabindex="" data-type="logo" data-id="418844" logo-design="Relevant_logo_logo_lounge" logo-designer="Neon+Pig+Creative">
+	
+	<figure class="logo-item-figure">
+		<a class="logo-item-figure-content" href="/logos/418844">
+							<img src="https://www.logolounge.com/wd/uploads/22044_418844.jpg" data-action="quicklook" data-action-value="418844" alt="Relevant_logo_logo_lounge logo design by logo designer Neon Pig Creative for your inspiration and for the worlds largest logo competition">
+					</a>
+			</figure>
+			
+		
+		</article>							<article class="logo-item" tabindex="" data-type="logo" data-id="418843" logo-design="Schaefer+Design+Company" logo-designer="Schaefer+Design+Company">
+	
+	<figure class="logo-item-figure">
+		<a class="logo-item-figure-content" href="/logos/418843">
+							<img src="https://www.logolounge.com/wd/uploads/24905_418843.jpg" data-action="quicklook" data-action-value="418843" alt="Schaefer Design Company logo design by logo designer Schaefer Design Company for your inspiration and for the worlds largest logo competition">
+					</a>
+			</figure>
+			
+		
+		</article>							<article class="logo-item" tabindex="" data-type="logo" data-id="418842" logo-design="Schaefer+Design+Company" logo-designer="Schaefer+Design+Company">
+	
+	<figure class="logo-item-figure">
+		<a class="logo-item-figure-content" href="/logos/418842">
+							<img src="https://www.logolounge.com/wd/uploads/24905_418842.jpg" data-action="quicklook" data-action-value="418842" alt="Schaefer Design Company logo design by logo designer Schaefer Design Company for your inspiration and for the worlds largest logo competition">
+					</a>
+			</figure>
+			
+		
+		</article>							<article class="logo-item" tabindex="" data-type="logo" data-id="418841" logo-design="Utah" logo-designer="Schaefer+Design+Company">
+	
+	<figure class="logo-item-figure">
+		<a class="logo-item-figure-content" href="/logos/418841">
+							<img src="https://www.logolounge.com/wd/uploads/24905_418841.jpg" data-action="quicklook" data-action-value="418841" alt="Utah logo design by logo designer Schaefer Design Company for your inspiration and for the worlds largest logo competition">
+					</a>
+			</figure>
+			
+		
+		</article>							<article class="logo-item" tabindex="" data-type="logo" data-id="418840" logo-design="Schaefer+Design+Company" logo-designer="Schaefer+Design+Company">
+	
+	<figure class="logo-item-figure">
+		<a class="logo-item-figure-content" href="/logos/418840">
+							<img src="https://www.logolounge.com/wd/uploads/24905_418840.jpg" data-action="quicklook" data-action-value="418840" alt="Schaefer Design Company logo design by logo designer Schaefer Design Company for your inspiration and for the worlds largest logo competition">
+					</a>
+			</figure>
+			
+		
+		</article>							<article class="logo-item" tabindex="" data-type="logo" data-id="418839" logo-design="Brooklyn+FC" logo-designer="Schaefer+Design+Company">
+	
+	<figure class="logo-item-figure">
+		<a class="logo-item-figure-content" href="/logos/418839">
+							<img src="https://www.logolounge.com/wd/uploads/24905_418839.jpg" data-action="quicklook" data-action-value="418839" alt="Brooklyn FC logo design by logo designer Schaefer Design Company for your inspiration and for the worlds largest logo competition">
+					</a>
+			</figure>
+			
+		
+		</article>							<article class="logo-item" tabindex="" data-type="logo" data-id="418838" logo-design="Jonah+Smith+Motocros" logo-designer="Boris+Margolin">
+	
+	<figure class="logo-item-figure">
+		<a class="logo-item-figure-content" href="/logos/418838">
+							<img src="https://www.logolounge.com/wd/uploads/23154_418838.jpg" data-action="quicklook" data-action-value="418838" alt="Jonah Smith Motocros logo design by logo designer Boris Margolin for your inspiration and for the worlds largest logo competition">
+					</a>
+			</figure>
+			
+		
+		</article>							<article class="logo-item" tabindex="" data-type="logo" data-id="418837" logo-design="Brooklyn+FC" logo-designer="Schaefer+Design+Company">
+	
+	<figure class="logo-item-figure">
+		<a class="logo-item-figure-content" href="/logos/418837">
+							<img src="https://www.logolounge.com/wd/uploads/24905_418837.jpg" data-action="quicklook" data-action-value="418837" alt="Brooklyn FC logo design by logo designer Schaefer Design Company for your inspiration and for the worlds largest logo competition">
+					</a>
+			</figure>
+			
+		
+		</article>							<article class="logo-item" tabindex="" data-type="logo" data-id="418836" logo-design="+Jonah+Smith+Motocross" logo-designer="Boris+Margolin">
+	
+	<figure class="logo-item-figure">
+		<a class="logo-item-figure-content" href="/logos/418836">
+							<img src="https://www.logolounge.com/wd/uploads/23154_418836.jpg" data-action="quicklook" data-action-value="418836" alt=" Jonah Smith Motocross logo design by logo designer Boris Margolin for your inspiration and for the worlds largest logo competition">
+					</a>
+			</figure>
+			
+		
+		</article>							<article class="logo-item" tabindex="" data-type="logo" data-id="418835" logo-design="German+Klub" logo-designer="Block+Designs">
+	
+	<figure class="logo-item-figure">
+		<a class="logo-item-figure-content" href="/logos/418835">
+							<img src="https://www.logolounge.com/wd/uploads/21091_418835.jpg" data-action="quicklook" data-action-value="418835" alt="German Klub logo design by logo designer Block Designs for your inspiration and for the worlds largest logo competition">
+					</a>
+			</figure>
+			
+		
+		</article>							<article class="logo-item" tabindex="" data-type="logo" data-id="418834" logo-design="Schaefer+Design+Company" logo-designer="Schaefer+Design+Company">
+	
+	<figure class="logo-item-figure">
+		<a class="logo-item-figure-content" href="/logos/418834">
+							<img src="https://www.logolounge.com/wd/uploads/24905_418834.jpg" data-action="quicklook" data-action-value="418834" alt="Schaefer Design Company logo design by logo designer Schaefer Design Company for your inspiration and for the worlds largest logo competition">
+					</a>
+			</figure>
+			
+		
+		</article>							<article class="logo-item" tabindex="" data-type="logo" data-id="418832" logo-design="Renegade+Chiropractic+" logo-designer="Schaefer+Design+Company">
+	
+	<figure class="logo-item-figure">
+		<a class="logo-item-figure-content" href="/logos/418832">
+							<img src="https://www.logolounge.com/wd/uploads/24905_418832.jpg" data-action="quicklook" data-action-value="418832" alt="Renegade Chiropractic  logo design by logo designer Schaefer Design Company for your inspiration and for the worlds largest logo competition">
+					</a>
+			</figure>
+			
+		
+		</article>							<article class="logo-item" tabindex="" data-type="logo" data-id="418831" logo-design="Renegade+Chiropractic+" logo-designer="Schaefer+Design+Company">
+	
+	<figure class="logo-item-figure">
+		<a class="logo-item-figure-content" href="/logos/418831">
+							<img src="https://www.logolounge.com/wd/uploads/24905_418831.jpg" data-action="quicklook" data-action-value="418831" alt="Renegade Chiropractic  logo design by logo designer Schaefer Design Company for your inspiration and for the worlds largest logo competition">
+					</a>
+			</figure>
+			
+		
+		</article>							<article class="logo-item" tabindex="" data-type="logo" data-id="418827" logo-design="Studio+Dostepnosci" logo-designer="Tandem">
+	
+	<figure class="logo-item-figure">
+		<a class="logo-item-figure-content" href="/logos/418827">
+							<img src="https://www.logolounge.com/wd/uploads/24269_418827.jpg" data-action="quicklook" data-action-value="418827" alt="Studio Dostepnosci logo design by logo designer Tandem for your inspiration and for the worlds largest logo competition">
+					</a>
+			</figure>
+			
+		
+		</article>							<article class="logo-item" tabindex="" data-type="logo" data-id="418826" logo-design="Studio+Dostepnosci" logo-designer="Tandem">
+	
+	<figure class="logo-item-figure">
+		<a class="logo-item-figure-content" href="/logos/418826">
+							<img src="https://www.logolounge.com/wd/uploads/24269_418826.jpg" data-action="quicklook" data-action-value="418826" alt="Studio Dostepnosci logo design by logo designer Tandem for your inspiration and for the worlds largest logo competition">
+					</a>
+			</figure>
+			
+		
+		</article>							<article class="logo-item" tabindex="" data-type="logo" data-id="418825" logo-design="el+local" logo-designer="Tandem">
+	
+	<figure class="logo-item-figure">
+		<a class="logo-item-figure-content" href="/logos/418825">
+							<img src="https://www.logolounge.com/wd/uploads/24269_418825.jpg" data-action="quicklook" data-action-value="418825" alt="el local logo design by logo designer Tandem for your inspiration and for the worlds largest logo competition">
+					</a>
+			</figure>
+			
+		
+		</article>					</div>
+		
+		<div class="frontpage-action">
+			<a class="btn btn-primary btn--has-arrow" href="/logos" title="More Logos">All Logos</a>
+			<!--a class="btn btn-primary btn--has-arrow" href="/search?keywords=halloween" title="More Logos">Halloween Logos</a-->
+		</div>
+		
+		
+	</section><section class="frontpage-articles">
+				<div style="position: relative;">
+		<h2 class="section-title">Logo News</h2>
+		
+		<span class="label">1,599 Articles</span>
+		
+		<div class="article-feed">
+			<!--article class="article-thumbnail double-thumbnail" itemscope="" itemtype="http://schema.org/Article">
+			<figure class="article-thumbnail-media">
+				<a href="https://www.logolounge.com/articles/hermanmillerandknollmerge"><img itemprop="thumbnailUrl" src="https://www.logolounge.com//article_images/new_millerknoll.png"></a>
+
+			</figure><div class="article-thumbnail-content">
+
+				<h1 itemprop="headline"><a itemprop="url" href="https://www.logolounge.com/articles/hermanmillerandknollmerge">Herman Miller and Knoll Merge</a></h1>
+				<ul class="article-thumbnail-meta">
+					<li itemprop="author">Cathy Lane</li>
+					<li itemprop="datePublished">August 3, 2021</li>
+				</ul>
+					</div>
+			</article-->
+							<article class="article-thumbnail" itemscope itemtype="http://schema.org/Article">
+	<figure class="article-thumbnail-media">
+		<a href="https://www.logolounge.com/articles/buildingblocksthreetakes"><img itemprop="thumbnailUrl" src="https://www.logolounge.com/"></a>
+		
+	</figure><div class="article-thumbnail-content">
+		
+		<h1 itemprop="headline"><a itemprop="url" href="https://www.logolounge.com/articles/buildingblocksthreetakes">Building Blocks: Three Takes</a></h1>
+		<ul class="article-thumbnail-meta">
+			<li itemprop="author">Cathy Lane</li>
+			<li itemprop="datePublished">March 11, 2022</li>
+		</ul>
+			</div>
+</article>							<article class="article-thumbnail" itemscope itemtype="http://schema.org/Article">
+	<figure class="article-thumbnail-media">
+		<a href="https://www.logolounge.com/articles/thepowerbehindgrace"><img itemprop="thumbnailUrl" src="https://www.logolounge.com//article_images/royal_ballet.jpg"></a>
+		
+	</figure><div class="article-thumbnail-content">
+		
+		<h1 itemprop="headline"><a itemprop="url" href="https://www.logolounge.com/articles/thepowerbehindgrace">The Power Behind Grace</a></h1>
+		<ul class="article-thumbnail-meta">
+			<li itemprop="author">Cathy Lane</li>
+			<li itemprop="datePublished">March 4, 2022</li>
+		</ul>
+			</div>
+</article>							<article class="article-thumbnail" itemscope itemtype="http://schema.org/Article">
+	<figure class="article-thumbnail-media">
+		<a href="https://www.logolounge.com/articles/an-increasingly-inclusive-identity"><img itemprop="thumbnailUrl" src="https://www.logolounge.com//article_images/NY_Pride.png"></a>
+		
+	</figure><div class="article-thumbnail-content">
+		
+		<h1 itemprop="headline"><a itemprop="url" href="https://www.logolounge.com/articles/an-increasingly-inclusive-identity">An Increasingly Inclusive Identity</a></h1>
+		<ul class="article-thumbnail-meta">
+			<li itemprop="author">Cathy Lane</li>
+			<li itemprop="datePublished">March 2, 2022</li>
+		</ul>
+			</div>
+</article>							<article class="article-thumbnail" itemscope itemtype="http://schema.org/Article">
+	<figure class="article-thumbnail-media">
+		<a href="https://www.logolounge.com/articles/from50subbrandsto4"><img itemprop="thumbnailUrl" src="https://www.logolounge.com//article_images/economist_1.png"></a>
+		
+	</figure><div class="article-thumbnail-content">
+		
+		<h1 itemprop="headline"><a itemprop="url" href="https://www.logolounge.com/articles/from50subbrandsto4">From 50 Sub-Brands to 4</a></h1>
+		<ul class="article-thumbnail-meta">
+			<li itemprop="author">Cathy Lane</li>
+			<li itemprop="datePublished">February 25, 2022</li>
+		</ul>
+			</div>
+</article>							<article class="article-thumbnail" itemscope itemtype="http://schema.org/Article">
+	<figure class="article-thumbnail-media">
+		<a href="https://www.logolounge.com/articles/indulgence-identities"><img itemprop="thumbnailUrl" src="https://www.logolounge.com//article_images/squirrel_logo.jpg"></a>
+		
+	</figure><div class="article-thumbnail-content">
+		
+		<h1 itemprop="headline"><a itemprop="url" href="https://www.logolounge.com/articles/indulgence-identities">Indulgence Identities</a></h1>
+		<ul class="article-thumbnail-meta">
+			<li itemprop="author">Cathy Lane</li>
+			<li itemprop="datePublished">February 23, 2022</li>
+		</ul>
+			</div>
+</article>						</div>
+		</div>
+		
+		<div class="frontpage-action">
+						<a class="btn btn-primary btn--has-arrow" href="/news" title="More Logo News">News</a>
+		</div>
+		
+	</section>
+	
+</main><div class="footer-ribbon">
+					<div class="footer-ribbon-inner">
+						<div class="text">
+							<p>
+								<strong>Make your mark</strong> <span>on logo history.</span>
+							</p>
+							<a href="https://www.logolounge.com/join" class="button">Join LogoLounge</a>
+						</div>
+					</div>
+				</div>			
+				<!-- BEGIN site-footer -->
+				<footer class="site-footer">
+					<div class="site-footer-container">
+						
+						<nav>
+							<ul>
+								<li><a href="/leap/educators" title="">Educator Program</a></li>
+								<li><a href="/leap/students" title="">Student Discount</a></li>
+								<li><a href="/meetups" title="LogoLounge Meetups">Meetups</a></li>
+								<li><a href="/support" title="">Support</a></li>
+								<li><a href="/faq" title="">FAQs</a></li>
+							</ul>
+						</nav>
+						
+						<div class="site-footer-social">
+							<ul class="social-list">
+								<li><a class="icon-social icon-twitter" href="//twitter.com/logolounge" target="_blank">Twitter</a></li>
+								<li><a class="icon-social icon-facebook" href="//www.facebook.com/LogoLounge/" target="_blank">Facebook</a></li>
+								<li><a class="icon-social icon-pinterest" href="//www.pinterest.com/logolounge/" target="_blank">Pinterest</a></li>
+								<li><a class="icon-social icon-instagram" href="//instagram.com/logolounge" target="_blank">Instagram</a></li>
+								<li><a class="icon-social icon-linkedin" href="//www.linkedin.com/company/3043287" target="_blank">LinkedIn</a></li>
+							</ul>
+						</div>
+						<nav class="site-footer-details">
+							<ul>
+								<li><a href="/terms" title="Terms of Use">Terms of Use</a></li>
+								<li><a href="/terms#privacy" title="Privacy Policy">Privacy Policy</a></li>
+								<li>Copyright LogoLounge, LLC. All Rights Reserved.</li>
+							</ul>
+						</nav>
+					</div>
+				</footer><!-- END site-footer -->
+			
+			</div><!-- END site-inner-wrapper -->
+			
+			
+			<a class="feedback" href="/support">What do you think?</a>
+			
+		</div>
+		
+		<div id="modal-quicklook" class="modal modal-quicklook">
+	<button class="close modal-close" data-action="close-modal"></button>
+	<div class="modal-container" data-action="close-modal">
+		<div class="modal-content">
+		</div>
+	</div>
+	
+	<a class="modal-next icon icon--large icon-arrow icon-arrow--right" data-action="quicklook">Next</a>
+	<a class="modal-previous icon icon--large icon-arrow icon-arrow--left" data-action="quicklook">Previous</a>
+</div>
+				
+		
+				
+		<script>
+			var GLOBALS = {"api":{"logos":"http://api.logolounge.com/logos","giftcards":"http://api.logolounge.com/giftcards","stats":"http://api.logolounge.com/stats","search":"http://api.logolounge.com/search","designers":"http://api.logolounge.com/designers","collections":"http://api.logolounge.com/collections","sessions":"http://api.logolounge.com/sessions","articles":"http://api.logolounge.com/articles","payments":"http://api.logolounge.com/payments","leap":"http://api.logolounge.com/leap","meetups":"http://api.logolounge.com/meetups","digitaldownloads":"http://api.logolounge.com/digitaldownloads"},"templates":[],"current_user":null};
+		</script>
+		
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		
+		  ga('create', 'UA-668225-1', 'auto');
+		  ga('send', 'pageview');
+		
+		</script>
+		
+		<!-- Facebook Pixel Code -->
+		<script>
+			!function(f,b,e,v,n,t,s)
+			{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+			n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+			if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+			n.queue=[];t=b.createElement(e);t.async=!0;
+			t.src=v;s=b.getElementsByTagName(e)[0];
+			s.parentNode.insertBefore(t,s)}(window, document,'script',
+			'https://connect.facebook.net/en_US/fbevents.js');
+			fbq('init', '851265848806357');
+			fbq('track', 'PageView');
+		</script>
+		<noscript><img height="1" width="1" style="display:none"
+		src="https://www.facebook.com/tr?id=851265848806357&ev=PageView&noscript=1"
+		/></noscript>
+		<!-- End Facebook Pixel Code -->
+		<script id="mcjs">
+			!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/615559dc8a48d3430a2a9a6de/fb5c24a34aa4e105ef2cef5c7.js");
+		</script>
+		    	
+    	
+    	<script src="//www.logolounge.com/assets/js/modernizr.min.js"></script>
+		<script src="//www.logolounge.com/assets/js/shims/picturefill.min.js"></script>
+		<script src="//www.logolounge.com/assets/js/main.min.js"></script>
+		<!--script src="//adopoly.clowdthink.net/am.js"></script--></body>
+ </html>
